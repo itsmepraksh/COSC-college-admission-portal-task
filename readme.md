@@ -26,13 +26,12 @@ Follow these steps to set up and run the application on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/admission-portal.git](https://github.com/YourUsername/admission-portal.git)
-    ```
-    (Replace `YourUsername` with your actual GitHub username)
+    git clone [https://github.com/itsmepraksh/COSC-college-admission-portal-task] 
+    ``` 
 
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd admission-portal
+    cd COSC-college-admission-portal-task
     ```
 
 3.  **Install Dependencies:**
